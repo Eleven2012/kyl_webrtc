@@ -1,0 +1,6 @@
+framework module Pods_kwebrtc_demoUITests {
+  umbrella header "Pods-kwebrtc_demoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
